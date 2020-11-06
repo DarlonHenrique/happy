@@ -4,7 +4,7 @@
 Um projeto feito por Darlon Henrique durante a Next Level Week de terceira edição
 Happy é um aplicativo feito para encontrar casas sociais que ajudam crianças carentes e entrar em contato para fazer uma visita.
 
-![](.github/happy.png)
+![](./.github/Happy.png)
 
 ## Exemplo de uso
 
