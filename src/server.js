@@ -26,3 +26,4 @@ server
 
 // Ligar o servidor
 server.listen(5500);
+console.log('server started')
