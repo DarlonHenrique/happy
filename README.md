@@ -1,28 +1,21 @@
-# Happy
-> Leve felicidade para o mundo
+# Happy - spread happiness
+![happy image](https://github.com/DarlonHenrique/happy-project-nlw-3/blob/main/.github/Happy.png)
 
-Um projeto feito por Darlon Henrique durante a Next Level Week de terceira edição
-Happy é um aplicativo feito para encontrar casas sociais que ajudam crianças carentes e entrar em contato para fazer uma visita.
 
-![](./.github/Happy.png)
+### technologies used
 
-## Exemplo de uso
 
-Você pode usar o Happy para encontrar e visitar orfanatos e casas de ajuda social na sua região e melhorar o dia de muitas crianças.
+**Handlebars** to create the template and generate the pages dynamically via html
 
-## Configuração para Desenvolvimento
+**SQlite** as a local relational database
 
-Pra este aplicativo funcionar bem você deve instalar as seguintes depedencias.
+**Nodemon** for fast refresh and server
 
-```sh
-npm install nodemon
-npm install sqlite
-```
+**CSS** to add style to the entire project, create animations and position elements
 
-## Contribuição
+**OpenStreetMap API** to create a navigable map and the pins that represent the social assistance houses
 
-1. Faça o _fork_ do projeto (<https://github.com/DarlonHenrique/NLW-3-Discovery.git>)
-2. Crie uma _branch_ para sua modificação (`git checkout -b feature/fooBar`)
-3. Faça o _commit_ (`git commit -am 'Add some fooBar'`)
-4. _Push_ (`git push origin feature/fooBar`)
-5. Crie um novo _Pull Request_
+**javascript** to build the entire back end of the project and create the integration with the database
+
+![happy gif demo](https://github.com/DarlonHenrique/happy/blob/main/.github/happy-demo.gif)
+the happy app was developed with the intention of helping people book visits to social assistance houses and making the day of several people better.
